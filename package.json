@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^44.1.0",
+    "@ckeditor/ckeditor5-html-support": "^44.1.0",
+    "@ckeditor/ckeditor5-vue2": "^3.0.1",
+    "@tinymce/tinymce-vue": "^3.2.8",
+    "vue": "^2.7.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
